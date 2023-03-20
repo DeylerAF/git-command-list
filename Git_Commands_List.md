@@ -17,9 +17,13 @@
 # Branches
 
 **git clone /ruta/**
+
 **git branch**
+
 **git branch 'dev'**
+
 **git checkout 'dev'**
+
 **git branch**
 
 **HACEMOS CAMBIOS EN EL CODIGO**
